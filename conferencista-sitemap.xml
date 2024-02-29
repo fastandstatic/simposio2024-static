@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/conferencista/rolando-ulloa/</loc>
-		<lastmod>2024-02-27T15:09:52+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Peter-Hotez-17.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/conferencista/berthold-koletzko/</loc>
 		<lastmod>2024-02-27T15:17:11+00:00</lastmod>
 		<image:image>
@@ -68,6 +61,13 @@
 		<lastmod>2024-02-29T19:16:40+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Peter-Hotez-15.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/conferencista/rolando-ulloa/</loc>
+		<lastmod>2024-02-29T20:44:19+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Peter-Hotez-17.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
