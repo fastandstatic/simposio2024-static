@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-03-01T15:19:29+00:00</lastmod>
+		<lastmod>2024-03-11T12:12:00+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Texas_Childrens_Hospital_logo.png</image:loc>
 		</image:image>
@@ -57,10 +57,6 @@
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Alpina_S.A._logo.svg.png</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>/programa/</loc>
-		<lastmod>2024-02-16T17:14:01+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/conferencistas/</loc>
@@ -120,10 +116,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/premio-al-residente/</loc>
-		<lastmod>2024-02-29T20:46:10+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/comite-academico/</loc>
 		<lastmod>2024-02-29T20:46:20+00:00</lastmod>
 	</url>
@@ -138,15 +130,110 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/inscripciones/</loc>
-		<lastmod>2024-03-01T17:13:38+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/ciudad/</loc>
-		<lastmod>2024-03-01T17:31:14+00:00</lastmod>
+		<loc>/hoteles/</loc>
+		<lastmod>2024-03-08T14:05:13+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/03/Group-7083.png</image:loc>
 		</image:image>
+	</url>
+	<url>
+		<loc>/residente/</loc>
+		<lastmod>2024-03-08T17:02:05+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/inscripciones/</loc>
+		<lastmod>2024-03-08T22:05:45+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/premio-al-residente/</loc>
+		<lastmod>2024-03-11T12:26:59+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/cartagena/</loc>
+		<lastmod>2024-03-11T12:36:20+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/KLM_logo.svg.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Group-7104.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/THUMB-aa_aa__ahz_4cp_grd_pos-1.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Group-7105.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/JetBlue_Airways_Logo.svg.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/117d3b55-59b8-4b4c-a02b-4a725d0b7676_AJ-FC.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Avianca_Logo.svg.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Avianca_Logo.svg.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Avianca_Logo.svg.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Latam-logo_-v_Indigo.svg.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Plus_Ultra_Lineas_Aereas_Logo.svg.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/2560px-Spirit_Airlines_logo.svg.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/2560px-Spirit_Airlines_logo.svg.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/mask-group-2-1.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/depositphotos_19110141-stock-illustration-colombia-stamp.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/actividades/</loc>
+		<lastmod>2024-03-11T13:13:39+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/qjj4ymn8zty9igpd66rfzg7z9rl919nvg1vs-768x669.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/m7wt17agx3nabpucp3y7q6ndh89ic8mfd9jc-768x669.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/bfkssrvr0dwy7slnlu06ejskb53pa3ftut8o-768x669.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/qzabsajo0gouldyr3j329q81ymq9avb7s-1-768x669.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/group-7127.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/group-7128.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/group-7130.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/group-7132.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/group-7127.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/group-7136.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/programa/</loc>
+		<lastmod>2024-03-11T13:39:35+00:00</lastmod>
 	</url>
 </urlset>
 <!-- XML Sitemap generated by Yoast SEO -->
