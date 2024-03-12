@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-03-12T14:12:22+00:00</lastmod>
+		<lastmod>2024-03-12T14:53:35+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Texas_Childrens_Hospital_logo.png</image:loc>
 		</image:image>
@@ -37,6 +37,21 @@
 			<image:loc>/wp-content/uploads/2024/02/Alpina_S.A._logo.svg.png</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Group-6957.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/HOMI-AZUL-OSCURO.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/NeilMedLogo.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/NoPath.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Laboratorios-Carnot-1-removebg-preview.png</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Group-7073.png</image:loc>
 		</image:image>
 		<image:image>
@@ -56,6 +71,21 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Alpina_S.A._logo.svg.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Group-6957.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/HOMI-AZUL-OSCURO.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/NeilMedLogo.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/NoPath.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Laboratorios-Carnot-1-removebg-preview.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -123,52 +153,6 @@
 		<lastmod>2024-03-12T01:34:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/expositores/</loc>
-		<lastmod>2024-03-12T01:44:00+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Alpina_S.A._logo.svg.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Group-7073.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Group-7074.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Abbott_Laboratories_logo.svg.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Group-7039.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/humax-e1708544462964.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Haleon.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Alpina_S.A._logo.svg.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Group-7073.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Group-7074.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Abbott_Laboratories_logo.svg.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Group-7039.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/humax-e1708544462964.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Haleon.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/acerca-del-evento/</loc>
 		<lastmod>2024-03-12T01:46:59+00:00</lastmod>
 		<image:image>
@@ -233,6 +217,82 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/03/depositphotos_19110141-stock-illustration-colombia-stamp.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/expositores/</loc>
+		<lastmod>2024-03-12T14:53:17+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Alpina_S.A._logo.svg.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Group-7073.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Group-7074.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Abbott_Laboratories_logo.svg.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Group-7039.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/humax-e1708544462964.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Haleon.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Group-6957.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/HOMI-AZUL-OSCURO.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/NeilMedLogo.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/NoPath.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Laboratorios-Carnot-1-removebg-preview.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Alpina_S.A._logo.svg.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Group-7073.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Group-7074.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Abbott_Laboratories_logo.svg.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Group-7039.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/humax-e1708544462964.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Haleon.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Group-6957.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/HOMI-AZUL-OSCURO.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/NeilMedLogo.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/NoPath.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Laboratorios-Carnot-1-removebg-preview.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
