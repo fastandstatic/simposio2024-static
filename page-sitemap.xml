@@ -2,18 +2,21 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-03-12T19:26:32+00:00</lastmod>
+		<lastmod>2024-03-14T17:24:13+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Texas_Childrens_Hospital_logo.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Group-6834.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Group-6965.png</image:loc>
-		</image:image>
-		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Group-6833.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/FIUArtboard-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Slipe-Simposio.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/alape.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Group-7073.png</image:loc>
@@ -22,10 +25,31 @@
 			<image:loc>/wp-content/uploads/2024/02/Group-7074.png</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/4f9f28a3-ba2f-4dfe-abdd-c56ef142d3c0_BOIRON_Q_HD.PNG.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/NovamedMesa-de-trabajo-10.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/RBArtboard-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/PFIZER-LOGO-LOGOMesa-de-trabajo-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Nestle-PNG.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/FAES-FARMAMesa-de-trabajo-1.png</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Group-7039.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Abbott_Laboratories_logo.svg.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Takeda_Brandsymbol_Dakiyama_DIGITAL_RED_NO_OUTLINE.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/humax-e1708544462964.png</image:loc>
@@ -34,7 +58,13 @@
 			<image:loc>/wp-content/uploads/2024/02/Haleon.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Alpina_S.A._logo.svg.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/03/Sinovac_Biotech_logo.svg.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Logo-Alpina.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/JJArtboard-1.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Group-6957.png</image:loc>
@@ -58,10 +88,31 @@
 			<image:loc>/wp-content/uploads/2024/02/Group-7074.png</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/4f9f28a3-ba2f-4dfe-abdd-c56ef142d3c0_BOIRON_Q_HD.PNG.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/NovamedMesa-de-trabajo-10.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/RBArtboard-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/PFIZER-LOGO-LOGOMesa-de-trabajo-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Nestle-PNG.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/FAES-FARMAMesa-de-trabajo-1.png</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Group-7039.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Abbott_Laboratories_logo.svg.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Takeda_Brandsymbol_Dakiyama_DIGITAL_RED_NO_OUTLINE.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/humax-e1708544462964.png</image:loc>
@@ -70,7 +121,13 @@
 			<image:loc>/wp-content/uploads/2024/02/Haleon.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Alpina_S.A._logo.svg.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/03/Sinovac_Biotech_logo.svg.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Logo-Alpina.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/JJArtboard-1.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Group-6957.png</image:loc>
