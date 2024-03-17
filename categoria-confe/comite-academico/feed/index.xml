@@ -12,7 +12,7 @@
 	<atom:link href="/categoria-confe/comite-academico/feed/" rel="self" type="application/rss+xml" />
 	<link>/categoria-confe/comite-academico/</link>
 	<description></description>
-	<lastBuildDate>Tue, 12 Mar 2024 17:01:36 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 15 Mar 2024 21:12:47 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,10 +20,10 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 	<item>
-		<title>Jose Solano</title>
+		<title>José Solano</title>
 		<link>/conferencista/jose-solano/</link>
 		
-		<dc:creator><![CDATA[eme]]></dc:creator>
+		<dc:creator><![CDATA[admin SCP Simposio]]></dc:creator>
 		<pubDate>Tue, 12 Mar 2024 16:28:50 +0000</pubDate>
 				<guid isPermaLink="false">/?post_type=conferencista#038;p=3584</guid>
 
@@ -37,23 +37,9 @@
 		<title>Hernando Villamizar</title>
 		<link>/conferencista/hernando-villamizar/</link>
 		
-		<dc:creator><![CDATA[eme]]></dc:creator>
+		<dc:creator><![CDATA[admin SCP Simposio]]></dc:creator>
 		<pubDate>Tue, 12 Mar 2024 16:27:36 +0000</pubDate>
 				<guid isPermaLink="false">/?post_type=conferencista#038;p=3582</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Andrea Maggioni</title>
-		<link>/conferencista/andrea-maggioni/</link>
-		
-		<dc:creator><![CDATA[eme]]></dc:creator>
-		<pubDate>Tue, 12 Mar 2024 16:25:22 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=conferencista#038;p=3577</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

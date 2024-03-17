@@ -2,37 +2,37 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/ciudad/americas-casa-de-playa/</loc>
-		<lastmod>2024-03-12T01:20:51+00:00</lastmod>
+		<lastmod>2024-03-14T21:00:16+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/americas-casa-de-playa.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/ciudad/holiday-morros/</loc>
-		<lastmod>2024-03-12T01:21:12+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Holiday-Morros.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/ciudad/sonesta/</loc>
-		<lastmod>2024-03-12T01:21:46+00:00</lastmod>
+		<lastmod>2024-03-14T21:02:20+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Sonesta.png</image:loc>
 		</image:image>
 	</url>
 	<url>
+		<loc>/ciudad/whyndham/</loc>
+		<lastmod>2024-03-14T21:02:58+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Whyndham.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/ciudad/ibis/</loc>
-		<lastmod>2024-03-12T01:22:06+00:00</lastmod>
+		<lastmod>2024-03-14T21:03:19+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Ibis.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/ciudad/whyndham/</loc>
-		<lastmod>2024-03-12T01:22:29+00:00</lastmod>
+		<loc>/ciudad/holiday-morros/</loc>
+		<lastmod>2024-03-14T21:03:36+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Whyndham.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/02/Holiday-Morros.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
