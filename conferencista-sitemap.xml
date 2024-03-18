@@ -50,13 +50,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/conferencista/dr-mauricio-guerreo/</loc>
-		<lastmod>2024-03-14T20:13:04+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/Peter-Hotez-5-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/conferencista/ricardo-munoz/</loc>
 		<lastmod>2024-03-14T20:15:13+00:00</lastmod>
 		<image:image>
@@ -114,9 +107,23 @@
 	</url>
 	<url>
 		<loc>/conferencista/jose-solano/</loc>
-		<lastmod>2024-03-15T21:12:47+00:00</lastmod>
+		<lastmod>2024-03-18T18:18:47+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/Peter-Hotez-3-1.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/03/jose-solano-grande.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/conferencista/suzanne-beno/</loc>
+		<lastmod>2024-03-18T18:26:24+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Suzanne-Beno-grande.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/conferencista/dr-mauricio-guerreo/</loc>
+		<lastmod>2024-03-18T18:33:22+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Peter-Hotez-5-1.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
