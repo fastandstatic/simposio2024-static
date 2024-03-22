@@ -29,10 +29,45 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/ciudad/americas-casa-de-playa/</loc>
-		<lastmod>2024-03-18T13:48:42+00:00</lastmod>
+		<loc>/ciudad/radisson/</loc>
+		<lastmod>2024-03-22T14:49:08+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/americas-casa-de-playa.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/03/radisson.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/ciudad/americas-torre-del-mar/</loc>
+		<lastmod>2024-03-22T15:00:34+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/americas-torre-del-mar.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/ciudad/hotel-estelar/</loc>
+		<lastmod>2024-03-22T15:14:44+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/estelar.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/ciudad/hyatt/</loc>
+		<lastmod>2024-03-22T15:35:28+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/hyatt.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/ciudad/almirante/</loc>
+		<lastmod>2024-03-22T15:36:10+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Almirante.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/ciudad/americas-casa-de-playa/</loc>
+		<lastmod>2024-03-22T15:59:28+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Americas-casa-de-Playa-1.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
