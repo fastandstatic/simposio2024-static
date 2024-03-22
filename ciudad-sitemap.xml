@@ -36,13 +36,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/ciudad/americas-torre-del-mar/</loc>
-		<lastmod>2024-03-22T15:00:34+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/americas-torre-del-mar.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/ciudad/hotel-estelar/</loc>
 		<lastmod>2024-03-22T15:14:44+00:00</lastmod>
 		<image:image>
@@ -64,8 +57,15 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/ciudad/americas-torre-del-mar/</loc>
+		<lastmod>2024-03-22T16:53:45+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/americas-torre-del-mar.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/ciudad/americas-casa-de-playa/</loc>
-		<lastmod>2024-03-22T15:59:28+00:00</lastmod>
+		<lastmod>2024-03-22T16:54:28+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Americas-casa-de-Playa-1.png</image:loc>
 		</image:image>
