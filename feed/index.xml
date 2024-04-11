@@ -12,13 +12,13 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Thu, 04 Apr 2024 20:26:08 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 11 Apr 2024 18:21:53 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5</generator>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2024/03/Group-27.png</url>
