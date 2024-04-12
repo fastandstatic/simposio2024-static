@@ -15,34 +15,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/conferencista/peter-hotez/</loc>
-		<lastmod>2024-03-12T00:10:32+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Peter-Hotez-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/conferencista/thierry-a-g-m-huisman/</loc>
-		<lastmod>2024-03-12T00:11:22+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Peter-Hotez-7.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/conferencista/jeffrey-s-shilt/</loc>
-		<lastmod>2024-03-12T00:11:46+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Peter-Hotez-1-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/conferencista/armando-correa/</loc>
-		<lastmod>2024-03-12T16:21:25+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Peter-Hotez-6.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/conferencista/gloria-zuccardi/</loc>
 		<lastmod>2024-03-14T20:12:34+00:00</lastmod>
 		<image:image>
@@ -50,38 +22,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/conferencista/ricardo-munoz/</loc>
-		<lastmod>2024-03-14T20:15:13+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Peter-Hotez-13.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/conferencista/julie-gastier-foster/</loc>
-		<lastmod>2024-03-14T20:32:49+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/Julie-Gastier-Foster-2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/conferencista/gustavo-monnerat/</loc>
 		<lastmod>2024-03-14T20:37:07+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/03/Gustavo-Monnerat.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/conferencista/camilo-gutierrez/</loc>
-		<lastmod>2024-03-14T20:38:29+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/Camilo-Gutierrez.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/conferencista/adriana-fonseca/</loc>
-		<lastmod>2024-03-14T20:41:29+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Peter-Hotez-15.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -134,17 +78,73 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/conferencista/marco-aurelio-palazzi-safadi/</loc>
+		<lastmod>2024-04-04T15:36:27+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Roberto-Debagg.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/conferencista/peter-hotez/</loc>
+		<lastmod>2024-04-12T19:30:53+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Peter-Hotez-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/conferencista/michael-beltfort/</loc>
-		<lastmod>2024-04-03T21:00:54+00:00</lastmod>
+		<lastmod>2024-04-12T19:31:15+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Jessian-Munoz.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/conferencista/marco-aurelio-palazzi-safadi/</loc>
-		<lastmod>2024-04-04T15:36:27+00:00</lastmod>
+		<loc>/conferencista/armando-correa/</loc>
+		<lastmod>2024-04-12T19:31:36+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/Roberto-Debagg.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/02/Peter-Hotez-6.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/conferencista/thierry-a-g-m-huisman/</loc>
+		<lastmod>2024-04-12T19:31:59+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Peter-Hotez-7.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/conferencista/jeffrey-s-shilt/</loc>
+		<lastmod>2024-04-12T19:32:19+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Peter-Hotez-1-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/conferencista/julie-gastier-foster/</loc>
+		<lastmod>2024-04-12T19:32:40+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Julie-Gastier-Foster-2.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/conferencista/ricardo-munoz/</loc>
+		<lastmod>2024-04-12T19:33:28+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Peter-Hotez-13.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/conferencista/adriana-fonseca/</loc>
+		<lastmod>2024-04-12T19:33:43+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Peter-Hotez-15.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/conferencista/camilo-gutierrez/</loc>
+		<lastmod>2024-04-12T19:33:57+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Camilo-Gutierrez.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
