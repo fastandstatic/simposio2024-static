@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-05-30T17:44:28+00:00</lastmod>
+		<lastmod>2024-06-06T17:59:01+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Texas_Childrens_Hospital_logo.png</image:loc>
 		</image:image>
@@ -70,6 +70,9 @@
 			<image:loc>/wp-content/uploads/2024/03/JJArtboard-1.png</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/2020-Polar-Logo_Mesa-de-trabajo-2.png</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Group-6957.png</image:loc>
 		</image:image>
 		<image:image>
@@ -77,9 +80,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/NeilMedLogo.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/NoPath.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Laboratorios-Carnot-1-removebg-preview.png</image:loc>
@@ -122,6 +122,18 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/05/Mesa-de-trabajo-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/NoPath.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/GaldermaMesa-de-trabajo-1@2x.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/Biopas-png.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/Cardioinfantil-png.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Group-7073.png</image:loc>
@@ -172,6 +184,9 @@
 			<image:loc>/wp-content/uploads/2024/03/JJArtboard-1.png</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/2020-Polar-Logo_Mesa-de-trabajo-2.png</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Group-6957.png</image:loc>
 		</image:image>
 		<image:image>
@@ -179,9 +194,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/NeilMedLogo.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/NoPath.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Laboratorios-Carnot-1-removebg-preview.png</image:loc>
@@ -224,6 +236,18 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/05/Mesa-de-trabajo-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/NoPath.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/GaldermaMesa-de-trabajo-1@2x.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/Biopas-png.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/Cardioinfantil-png.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -781,7 +805,7 @@
 	</url>
 	<url>
 		<loc>/expositores/</loc>
-		<lastmod>2024-05-30T19:08:53+00:00</lastmod>
+		<lastmod>2024-06-06T17:58:14+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Group-7073.png</image:loc>
 		</image:image>
@@ -831,6 +855,9 @@
 			<image:loc>/wp-content/uploads/2024/03/Sinovac_Biotech_logo.svg.png</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/2020-Polar-Logo_Mesa-de-trabajo-2.png</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Group-6957.png</image:loc>
 		</image:image>
 		<image:image>
@@ -838,9 +865,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/NeilMedLogo.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/NoPath.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Laboratorios-Carnot-1-removebg-preview.png</image:loc>
@@ -883,6 +907,18 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/05/Mesa-de-trabajo-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/NoPath.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/GaldermaMesa-de-trabajo-1@2x.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/Biopas-png.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/Cardioinfantil-png.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Group-7073.png</image:loc>
@@ -933,6 +969,9 @@
 			<image:loc>/wp-content/uploads/2024/03/Sinovac_Biotech_logo.svg.png</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/2020-Polar-Logo_Mesa-de-trabajo-2.png</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Group-6957.png</image:loc>
 		</image:image>
 		<image:image>
@@ -940,9 +979,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/NeilMedLogo.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/NoPath.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Laboratorios-Carnot-1-removebg-preview.png</image:loc>
@@ -985,6 +1021,18 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/05/Mesa-de-trabajo-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/NoPath.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/GaldermaMesa-de-trabajo-1@2x.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/Biopas-png.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/Cardioinfantil-png.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
