@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-06-06T17:59:01+00:00</lastmod>
+		<lastmod>2024-06-11T14:27:51+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Texas_Childrens_Hospital_logo.png</image:loc>
 		</image:image>
@@ -61,7 +61,7 @@
 			<image:loc>/wp-content/uploads/2024/02/Haleon.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/Sinovac_Biotech_logo.svg.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/06/SINOVAC-LOGO-NUEVO.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/03/Logo-Alpina.png</image:loc>
@@ -175,7 +175,7 @@
 			<image:loc>/wp-content/uploads/2024/02/Haleon.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/Sinovac_Biotech_logo.svg.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/06/SINOVAC-LOGO-NUEVO.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/03/Logo-Alpina.png</image:loc>
@@ -257,10 +257,6 @@
 	<url>
 		<loc>/premio-al-residente/</loc>
 		<lastmod>2024-03-15T17:04:52+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/comite-academico/</loc>
-		<lastmod>2024-03-18T18:32:31+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/servicio-de-transporte/</loc>
@@ -729,83 +725,87 @@
 		<lastmod>2024-05-27T19:19:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/simposios/</loc>
-		<lastmod>2024-05-29T21:17:15+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Group-7039.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/Sin-titulo-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Group-6957.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/JJArtboard-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Group-7074.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Group-7039.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/Sin-titulo-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Group-6957.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/JJArtboard-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Group-7074.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Group-7039.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/Sin-titulo-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Group-6957.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/JJArtboard-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Group-7074.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Group-7039.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/Sin-titulo-1.png</image:loc>
-		</image:image>
+		<loc>/comite-academico/</loc>
+		<lastmod>2024-06-11T12:33:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/simposios-alternos/</loc>
-		<lastmod>2024-05-29T21:18:20+00:00</lastmod>
+		<loc>/simposios/</loc>
+		<lastmod>2024-06-11T14:15:00+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/Sinovac_Biotech_logo.svg-1024x126.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/02/Group-7039.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/2560px-Alexion_Pharmaceuticals_logo.svg-1024x152.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/03/Sin-titulo-1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/Sinovac_Biotech_logo.svg-1024x126.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/02/Group-6957.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/2560px-Alexion_Pharmaceuticals_logo.svg-1024x152.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/03/JJArtboard-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Group-7074.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Group-7039.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Sin-titulo-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Group-6957.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/JJArtboard-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Group-7074.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Group-7039.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Sin-titulo-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Group-6957.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/JJArtboard-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Group-7074.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Group-7039.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Sin-titulo-1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/programa/</loc>
-		<lastmod>2024-05-29T21:22:37+00:00</lastmod>
+		<lastmod>2024-06-11T14:18:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/simposios-alternos/</loc>
+		<lastmod>2024-06-11T14:21:56+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/SINOVAC-LOGO-NUEVO.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/2560px-Alexion_Pharmaceuticals_logo.svg-1024x152.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/SINOVAC-LOGO-NUEVO.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/2560px-Alexion_Pharmaceuticals_logo.svg-1024x152.png</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>/expositores/</loc>
-		<lastmod>2024-06-06T17:58:14+00:00</lastmod>
+		<lastmod>2024-06-11T14:22:44+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Group-7073.png</image:loc>
 		</image:image>
@@ -852,7 +852,7 @@
 			<image:loc>/wp-content/uploads/2024/03/Takeda_Brandsymbol_Dakiyama_DIGITAL_RED_NO_OUTLINE.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/Sinovac_Biotech_logo.svg.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/06/SINOVAC-LOGO-NUEVO.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/06/2020-Polar-Logo_Mesa-de-trabajo-2.png</image:loc>
@@ -966,7 +966,7 @@
 			<image:loc>/wp-content/uploads/2024/03/Takeda_Brandsymbol_Dakiyama_DIGITAL_RED_NO_OUTLINE.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/Sinovac_Biotech_logo.svg.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/06/SINOVAC-LOGO-NUEVO.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/06/2020-Polar-Logo_Mesa-de-trabajo-2.png</image:loc>
