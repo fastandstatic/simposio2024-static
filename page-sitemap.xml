@@ -739,22 +739,6 @@
 		<lastmod>2024-06-11T14:18:00+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/simposios-alternos/</loc>
-		<lastmod>2024-06-12T13:36:04+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/SINOVAC-LOGO-NUEVO.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/2560px-Alexion_Pharmaceuticals_logo.svg-1024x152.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/SINOVAC-LOGO-NUEVO.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/2560px-Alexion_Pharmaceuticals_logo.svg-1024x152.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/simposios/</loc>
 		<lastmod>2024-06-12T13:48:33+00:00</lastmod>
 		<image:image>
@@ -1045,6 +1029,22 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/06/Logo-Valentech.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/simposios-alternos/</loc>
+		<lastmod>2024-06-17T17:58:17+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/SINOVAC-LOGO-NUEVO.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/2560px-Alexion_Pharmaceuticals_logo.svg-1024x152.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/SINOVAC-LOGO-NUEVO.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/2560px-Alexion_Pharmaceuticals_logo.svg-1024x152.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
