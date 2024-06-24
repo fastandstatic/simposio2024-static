@@ -277,13 +277,6 @@
 		<lastmod>2024-03-15T17:04:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/servicio-de-transporte/</loc>
-		<lastmod>2024-03-18T18:40:23+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Image-2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/cartagena/</loc>
 		<lastmod>2024-03-18T18:45:26+00:00</lastmod>
 		<image:image>
@@ -1105,6 +1098,13 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/06/Logo-Logo-Nutricia-Mesa-de-trabajo-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/servicio-de-transporte/</loc>
+		<lastmod>2024-06-24T15:34:10+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/Transporte.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
